@@ -1,2 +1,1 @@
-# Antique-Ruin-Survivor
-A comprehensive Game Design Document (GDD) and conceptual framework for a mythology-themed roguelike action game, focusing on mechanics, level design, and narrative structure.
+Antique Ruin: Survivor is a fast-paced, mythology-themed roguelike action game developed as a studio project. Players take on the role of Archaeologist Helios, who accidentally breaks the "Seal of Chronos" and must survive waves of ancient monsters across different eras to repair the seal and return to the present.
